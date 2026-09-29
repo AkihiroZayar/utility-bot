@@ -1,6 +1,6 @@
 {
   "name": "byte-utility",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "AkihiroLabs Discord utility bot with Byte personality",
   "main": "index.js",
   "scripts": {

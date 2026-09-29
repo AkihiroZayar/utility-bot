@@ -1,10 +1,10 @@
 module.exports = {
+  // Daily greetings go to #🦝・byte-club only
   greetingChannels: [
-    '1524303885588762676',
-    '1524572361913798738',
+    '1524601825133859017',
   ],
   modLogChannel: '1524945630802219048',
-  autoRoleName: 'Member',
+  autoRoleName: '🦝 Member',
 
   // Scheduled greeting times (cron format, JST = UTC+9)
   schedule: {
