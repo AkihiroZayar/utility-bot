@@ -76,7 +76,7 @@ This project uses [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH
 - The version lives in **`package.json`** (`version`).
 - To release: bump the version, add an entry to [`CHANGELOG.md`](CHANGELOG.md), then create a GitHub Release tagged `vX.Y.Z`.
 
-Current version: **v1.1.0** — see the [changelog](CHANGELOG.md).
+Current version: **v1.1.1** — see the [changelog](CHANGELOG.md).
 
 ## 💬 Community
 
