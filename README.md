@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="app-icon.png" alt="Byte Utility logo" width="112">
+</p>
+
 <h1 align="center">Byte Utility 🦝</h1>
 
 <p align="center">
@@ -5,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-1E3A8A" alt="version 1.0.0">
+  <img src="https://img.shields.io/badge/version-1.1.0-1E3A8A" alt="version 1.1.0">
   <img src="https://img.shields.io/badge/discord.js-v14-00A8CC" alt="discord.js v14">
   <img src="https://img.shields.io/badge/Node.js-18%2B-1E3A8A" alt="Node.js 18+">
 </p>
@@ -45,6 +49,8 @@ utility-bot/
 ├── config.js           # Channels, schedule, anti-spam, messages, projects
 ├── commands/           # Slash commands (one file each)
 ├── events/             # Discord event handlers
+├── app-icon.png        # App logo (README, 512px)
+├── favicon.png · apple-touch-icon.png · icon-192.png · icon-512.png
 ├── package.json
 ├── .env.example        # Template for your secrets
 ├── CHANGELOG.md
@@ -52,6 +58,10 @@ utility-bot/
 ```
 
 > ⚠️ `index.js` loads the `commands/` and `events/` folders, which aren't in this repository yet — push them before deploying.
+
+## 🖼 Bot avatar
+
+Use `icon-512.png` as the bot's avatar in the Discord Developer Portal (Bot → Icon) so it matches the AkihiroLabs app family.
 
 ## 🛠 Tech
 
@@ -66,7 +76,7 @@ This project uses [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH
 - The version lives in **`package.json`** (`version`).
 - To release: bump the version, add an entry to [`CHANGELOG.md`](CHANGELOG.md), then create a GitHub Release tagged `vX.Y.Z`.
 
-Current version: **v1.0.0** — see the [changelog](CHANGELOG.md).
+Current version: **v1.1.0** — see the [changelog](CHANGELOG.md).
 
 ## 💬 Community
 
