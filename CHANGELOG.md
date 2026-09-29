@@ -3,6 +3,10 @@
 All notable changes to **Byte Utility 🦝** are documented here.
 This project follows [Semantic Versioning](https://semver.org/).
 
+## [1.2.0] — 2026-09-29
+
+- Disabled all scheduled greetings (morning, noon, night). Byte no longer sends automated messages to any channel.
+
 ## [1.1.1] — 2026-09-29
 
 - Scheduled greetings (morning, noon, night) now post only in #🦝・byte-club instead of #welcome and #off-topic.
