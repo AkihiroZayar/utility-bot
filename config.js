@@ -1,8 +1,6 @@
 module.exports = {
-  // Daily greetings go to #🦝・byte-club only
-  greetingChannels: [
-    '1524601825133859017',
-  ],
+  // Daily greetings disabled — no channels to send to
+  greetingChannels: [],
   modLogChannel: '1524945630802219048',
   autoRoleName: '🦝 Member',
 
